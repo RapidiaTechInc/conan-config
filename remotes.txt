@@ -1,2 +1,1 @@
-cura https://rapidia.jfrog.io/artifactory/api/conan/cura-internal True
-conan-center https://center.conan.io True
+rapidia-cura https://github.com/RapidiaTechInc/cura-conan-cache True

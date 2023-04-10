@@ -1,1 +1,1 @@
-rapidia-cura https://github.com/RapidiaTechInc/cura-conan-cache True
+rapidia-cura https://github.com/RapidiaTechInc/cura-conan-cache.git True

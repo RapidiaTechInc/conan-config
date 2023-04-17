@@ -1,2 +1,2 @@
-cura https://rapidia.jfrog.io/artifactory/api/conan/cura-internal True
-conan-center https://center.conan.io True
+rapidia-cura https://gitlab.example.com/api/v4/projects/conan_server/packages/conan True
+

@@ -1,2 +1,2 @@
-rapidia-cura https://gitlab.example.com/api/v4/projects/conan_server/packages/conan True
+rapidia-cura https://gitlab.com/api/v4/projects/45192374/packages/conan True
 

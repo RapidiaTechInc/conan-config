@@ -1,2 +1,2 @@
-rapidia-cura https://gitlab.com/api/v4/projects/45192374/packages/conan True
+rapidia-cura 20.63.107.218:80 True
 

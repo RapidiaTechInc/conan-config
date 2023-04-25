@@ -1,2 +1,2 @@
-rapidia-cura 20.63.107.218:80 True
+rapidia-cura 20.63.107.218:80 False
 

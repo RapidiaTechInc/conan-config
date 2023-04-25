@@ -1,2 +1,2 @@
-rapidia-cura 20.63.107.218:9300 False
+rapidia-cura http://20.63.107.218:9300 False
 
